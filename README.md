@@ -5,4 +5,4 @@ Facial Recognition possess the importance to give biometric authentication that 
 
 The training of the model will be done by images in the Training folder and for the testing of the model, unseen images will be taken from the testing folder for chicking if the model is able to recognise the face numver for the unseen image.
 
-Since we are reconizing unique faces,, the model will have the same number of neurons in the output layer for fully connected ANN classifier.
+Since we are reconising unique faces,, the model will have the same number of neurons in the output layer for fully connected ANN classifier.
